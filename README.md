@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Engineering Student
 -------------------
 
-My name is Saad and I'm an upcoming first-year student at the University of Western Ontario. I am studying general engineering, with the hopes of specializing in software engineering. Ever since I have been introduced to the idea of programming in grade 10, I really enjoy working with frontend development and have been utilizing frameworks such as react to help broaden my skillset in this specific field. I have fallen in love with it. I hope to use my proficiency in computer software to create meaningful work that can impact the world positively.
+My name is Saad and I'm an upcoming first-year student at the University of Western Ontario. I am studying general engineering, with the hopes of specializing in software engineering. Ever since I have been introduced to the idea of programming in grade 10,  I have fallen in love with it. I really enjoy working with frontend development and have been utilizing frameworks such as react to help broaden my skillset in this specific field. I hope to use my proficiency in computer software to create meaningful work that can impact the world positively.
 
 * 🌍  I'm based in Markham, Ontario
 * ✉️  You can contact me at [naeemsaad1035@gmail.com](mailto:naeemsaad1035@gmail.com)
